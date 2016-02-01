@@ -1,6 +1,6 @@
-//# Borderer-Layout
+//# Border-Layout
 
-class  BordererLayout{
+class  BorderLayout{
 
   public static void main(String ar[]){
      System.out.println("Prueba");
